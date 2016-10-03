@@ -1,0 +1,34 @@
+#border{
+  border: purple 3px dashed;
+  margin: 10px 10px 40px 15px;
+  padding: 200px 600px 0px 600px;
+}
+
+.green{
+  color:green;
+  margin: 0px 600px 0px 650px;
+  font-size: 10px;
+}
+
+.ahh{
+  color:orange;
+  font-size: 40px;
+}
+
+span{
+  color:red;
+  font-size:40px;
+  vertical-align: 20px;
+}
+
+.omg{
+  color:purple;
+  font-size:5px;
+  margin:0px 0px 0px 1300px
+}
+
+#ugh{
+  color:yellow;
+  font-size:5px;
+  vertical-align: 0px;
+}
