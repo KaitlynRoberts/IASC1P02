@@ -1,0 +1,45 @@
+body{
+  colour:green;
+  background-color:green;
+}
+
+#wrapper{
+  background-color:green;
+  height:1000px;
+  width:800px;
+  margin:0 auto;
+}
+
+#header{
+  background-color: red;
+  width: 800px;
+  height:200px;
+  text-align: center;
+}
+
+#nav{
+  background-color: pink;
+  width:200px;
+  height:200px;
+  float:left;
+}
+
+#navi{
+  background-color: orange;
+  width:600px;
+  height:200px;
+  float:left;
+}
+
+#content{
+  background-color: blue;
+  width:800px;
+  height:800px;
+}
+
+#footer{
+  background-color: yellow;
+  width:800px;
+  height:100px;
+  clear:both;
+}

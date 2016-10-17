@@ -1,0 +1,34 @@
+body{
+  colour:white;
+  background-color:white;
+}
+
+#wrapper{
+  color:white;
+  height:800px;
+  margin:0 auto;
+}
+
+#header{
+  color:white;
+  background-color: red;
+  width: 100%;
+  height:100px;
+  text-align: center;
+}
+
+#content{
+  color:white;
+  background-color: green;
+  width:100%;
+  height:600px;
+  float:left;
+}
+
+#footer{
+  color:white;
+  background-color: blue;
+  width:100%;
+  height:100px;
+  clear:both;
+}
