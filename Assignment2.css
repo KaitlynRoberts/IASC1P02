@@ -1,0 +1,82 @@
+body{
+  colour:white;
+  background-color:white;
+}
+
+#wrapper{
+  background-color:white;
+  height:1000px;
+  width:800px;
+  margin:0 auto;
+}
+
+.header h1{
+  background-color: yellow;
+  width: 800px;
+  height:200px;
+  color:red;
+  text-align: center;
+}
+
+#nav{
+  background-color: orange;
+  width:150px;
+  height:800px;
+  float:left;
+  color:white;
+  text-align: center;
+}
+
+#content{
+  background-color: red;
+  width:650px;
+  height:800px;
+  float:right;
+  color: white;
+  text-align: center;
+}
+
+#footer{
+  background-color: yellow;
+  width:800px;
+  height:100px;
+  clear:both;
+  color: red;
+  text-align: center;
+}
+
+.red{
+  color:red;
+}
+
+.size{
+  font-size: 40px;
+}
+
+h1{
+  font-family: "Arial",serif;
+}
+
+.case{
+  text-transform: capitalize;
+}
+
+.fixed{
+  position: fixed;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+h2,p{
+  color:orange;
+}
+
+#picture{
+
+}
