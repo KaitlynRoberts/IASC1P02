@@ -50,10 +50,17 @@ body{
   text-align: center;
 }
 
-#picture{
+.picture{
   width:100%;
   height:auto;
   margin:0 auto;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.picture:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
 }
 
 .image{
@@ -81,7 +88,7 @@ body{
   display: inline-block;
   border-radius: 4px;
   -webkit-transition-duration: 0.4s;
- transition-duration: 0.4s;
+  transition-duration: 0.4s;
 }
 
 .link:hover{ /* w3schools.com */
@@ -101,3 +108,8 @@ body{
 
 .mySlides {display:none}
 .demo {cursor:pointer}
+
+h1{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
